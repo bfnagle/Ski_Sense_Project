@@ -2,7 +2,7 @@
   Code initially written by Brendan Nagle
   Worked with Teresa Ou and John Stanley
   Project completed for Thayer School of Engineering Engs 89/90
-  Sponsored by Gunnar Pope, Evan Gelfand, and their team.
+  Sponsored by Gunnar Pope, Evan Gelfand, Allison Beck, and Ziad Al-shamsie
 
   Circuit involves:
   Analog pressure sensors on analog ping 0-5

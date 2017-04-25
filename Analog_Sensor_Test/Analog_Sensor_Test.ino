@@ -1,3 +1,8 @@
+/*  Code initially written by Brendan Nagle
+  Worked with Teresa Ou and John Stanley
+  Project completed for Thayer School of Engineering Engs 89/90
+  Sponsored by Gunnar Pope, Evan Gelfand, Allison Beck, and Ziad Al-shamsie
+*/
 const int DELAY_TIME = 50; //The time to delay before running the loop again. This sets our sampling rate
 //The following two lines are taken from the Adafruit code
 /* Assign a unique ID to this sensor at the same time */

@@ -1,3 +1,8 @@
+/*  Code initially written by Brendan Nagle
+  Worked with Teresa Ou and John Stanley
+  Project completed for Thayer School of Engineering Engs 89/90
+  Sponsored by Gunnar Pope, Evan Gelfand, Allison Beck, and Ziad Al-shamsie
+*/
 //#include <SoftwareSerial.h>
 //SoftwareSerial mySerial(8, 9); //RX,TX
 //RX goes to Dout, TX goes to Din
